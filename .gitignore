@@ -250,3 +250,9 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+#Typescript Project, so we dont need js files
+*.js
+*.js.map
+wwwroot/
+typings/
